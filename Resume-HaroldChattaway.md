@@ -31,13 +31,13 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 - Implemented state machine using open-source project "stateless".
 - Utilized Azure DevOps (ADO) for all issue and branch management.
 
- **Senior Software Engineer-** **Glaukos - via Medacuity** 
+ **Senior Software Engineer - Glaukos - via Medacuity** 
 
 - Lead WPF/GUI engineer on medical device to repair corneal damage caused by keratoconus and refractive surgery.
 - Collected the eye treatment parameters and using gRPC, which communicated to a C++ app running on Ubuntu using socket programming.
 - Event-driven, multi-threaded application.
 
- **Senior Software Engineer-** _ _ **MRI Medical Device – Nous – via Medacuity** _
+ **Senior Software Engineer-** **MRI Medical Device – Nous – via Medacuity** _
 
 - Updated interface due to change requirements written in React.
 - Performed extensive testing on updated text and deployment of React/Python application on the Ubuntu platform using both unit testing and automated UI testing.
@@ -91,7 +91,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Wrote a Prism Event Dashboard utility that monitored all Prism Events and summarized all subscribers and publishers of Prism Events system wide.
 - Modified the Prism framework itself so that existing applications did not have to be modified at all.
 
- **Senior Software Engineer **  **Zoll Medical, Chelmsford, MA** 
+ **Senior Software Engineer Zoll Medical, Chelmsford, MA** 
 
 - Developed a large enterprise WPF hosted application with the WPF front end utilizing WCF for communications back to the server.
 - Managed a large database with over 400 tables.
