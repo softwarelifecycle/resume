@@ -14,12 +14,12 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 |   OS|  Languages | Tools  | Frameworks |
 |---|---|---|---|
-| Windows 10  | C#  |   |.Net|
-| Linux  |  React |   |WPF|
-|   |  Python |   |PRISM|
-|   |  JS |   |UWP|
-|   |   |   |PyTorch,YOLO|
-|   |   |   |
+| Windows 10  | C#  |  GitHub |.Net|
+| Linux/Ubuntu  |  React | BitBucket  |WPF|
+| Windows 10 IoT  |  Python | Jira  |PRISM|
+|   |  JS | Confluence   |UWP|
+|   |   | Jenkins  |PyTorch,YOLO|
+
 
 **Languages:** C#, React,, Python,
 
