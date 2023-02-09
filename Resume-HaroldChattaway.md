@@ -25,7 +25,7 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 **Senior Software Engineer – Medacuity, Westford, MA  10/19 to present **
 
- **Senior Software Engineer-**  **Dermatology Laser Device – Cynosure – via Medacuity** 
+ **Senior Software Engineer - Dermatology Laser Device – Cynosure – via Medacuity** 
 
 - Lead on developing WPF/PRISM framework.
 - Implemented state machine using open-source project "stateless".
