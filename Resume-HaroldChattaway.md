@@ -12,23 +12,13 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 **TECHNICAL SUMMARY**
 
-|   OS|  Languages | Tools  | Frameworks |
-|---|---|---|---|
-| Windows 10  | C#  |  GitHub |.Net|
-| Linux/Ubuntu  |  React | BitBucket  |WPF|
-| Windows 10 IoT  |  Python | Jira  |PRISM|
-|   |  JS | Confluence   |UWP|
+|   OS|  Languages | Tools  | Frameworks | Training |
+|---|---|---|---|---|
+| Windows 10  | C#  |  GitHub |.Net|Software Architecture |
+| Linux/Ubuntu  |  React | BitBucket  |WPF| REST API's |
+| Windows 10 IoT  |  Python | Jira  |PRISM| OPENCV/PyTorch |
+|   |  JS | Confluence   |UWP| ISO 123485, IEC 62304, ISO 14971, ISO 27001 |
 |   |   | Jenkins  |PyTorch,YOLO|
-
-
-**Languages:** C#, React,, Python,
-
-**OS:** Windows 10, Windows Embedded 7, Windows 10 IOT Core, Linux/Ubuntu
-**Frameworks:**.Net, WPF, Prism, Unity3D, UWP, Entity Framework,PyTorch, YOLO
-
-**Tools:** GitHub, Bitbucket, Jira, Confluence, SourceTree, Jenkins, TeamCity
-
-**Other:** Trained in ISO 13485, IEC 62304, ISO 14971, ISO 27001, MVVM
 
 **KEY RELEVANT EXPERIENCE**
 
