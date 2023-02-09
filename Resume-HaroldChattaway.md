@@ -2,7 +2,7 @@
 
 **SUMMARY**
 
-With over 25 years of experience of utilizing advanced technologies to improve web and desktop users experience. Highly efficient senior software engineer, specializing in C# WPF applications in robotics.
+With over 25 years of experience of utilizing advanced technologies to improve web and desktop users experience. Highly efficient senior software engineer, specializing in C# WPF applications in the medical device market.
 
 Adept at utilizing formal engineering methods to shorten the development process and create solid applications.
 
