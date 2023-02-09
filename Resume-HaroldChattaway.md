@@ -37,7 +37,7 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 - Collected the eye treatment parameters and using gRPC, which communicated to a C++ app running on Ubuntu using socket programming.
 - Event-driven, multi-threaded application.
 
- **Senior Software Engineer-** **MRI Medical Device – Nous – via Medacuity** _
+ **Senior Software Engineer-** **MRI Medical Device – Nous – via Medacuity** 
 
 - Updated interface due to change requirements written in React.
 - Performed extensive testing on updated text and deployment of React/Python application on the Ubuntu platform using both unit testing and automated UI testing.
