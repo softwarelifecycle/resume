@@ -23,7 +23,7 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 **KEY RELEVANT EXPERIENCE**
 
-**Senior Software Engineer – Medacuity, Westford, MA**
+**Senior Software Engineer – Medacuity, Westford, MA  10/19 to present **
 
  **Senior Software Engineer-**  **Dermatology Laser Device – Cynosure – via Medacuity** 
 
