@@ -6,5 +6,7 @@ I find the bio-medical device space extremely rewarding and fascinating work. I 
 
 I am highly devoted to continuous learning and have take Udemy courses on Software Architecture, REST API's using rGPC, Python and Data Science.
 
-I look forward to discuss interesting engineering oppurtunities!
+I look forward to discuss interesting engineering oppurtunities! Please view my complete resume above.
+
+Thank you for your time.
 Harold Chattaway
