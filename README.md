@@ -1,4 +1,4 @@
-# Harold Chattaway Resume
+# Introduction... Full Resume in above link.
 
 I am a software engineer with extensive experience in .NET and front-end frameworks.. mainly WPF and UWP. I have worked on large bio-medical device projects ranging from designing the framework for a blood gas analizer for NOVA biomedical, a device for Abbott to guide coronary stent placement, a liquid handling robot for HiRes BioSolutions and a WPF touch screen app to reverse vision loss for Glaukos.
 
