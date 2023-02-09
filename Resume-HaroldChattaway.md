@@ -12,6 +12,15 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 **TECHNICAL SUMMARY**
 
+|   OS|  Languages | Tools  |
+|---|---|---|
+| Windows 10  | C#  |   |
+| Linux  |  React |   |
+|   |  Python |   |
+|   |  JS |   |
+|   |   |   |
+|   |   |   |
+
 **Languages:** C#, React,, Python,
 
 **OS:** Windows 10, Windows Embedded 7, Windows 10 IOT Core, Linux/Ubuntu
