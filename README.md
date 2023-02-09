@@ -4,7 +4,7 @@ I am a software engineer with extensive experience in .NET and front-end framewo
 
 I find the bio-medical device space extremely rewarding and fascinating work. I have also been working on using PyTorch to train convolutional neural networks for image processing tasks.
 
-I am highly devoted to continuous learning and have take Udemy courses on Software Architecture, REST API's using rGPC, Python and Data Science.
+I am highly devoted to continuous learning and have taken Udemy courses on Software Architecture, REST API's using rGPC, Python and Data Science.
 
 I look forward to discuss interesting engineering oppurtunities! Please view my complete resume above.
 
