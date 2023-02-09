@@ -12,13 +12,13 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 
 **TECHNICAL SUMMARY**
 
-|   OS|  Languages | Tools  |
-|---|---|---|
-| Windows 10  | C#  |   |
-| Linux  |  React |   |
-|   |  Python |   |
-|   |  JS |   |
-|   |   |   |
+|   OS|  Languages | Tools  | Frameworks |
+|---|---|---|---|
+| Windows 10  | C#  |   |.Net|
+| Linux  |  React |   |WPF|
+|   |  Python |   |PRISM|
+|   |  JS |   |UWP|
+|   |   |   |PyTorch,YOLO|
 |   |   |   |
 
 **Languages:** C#, React,, Python,
