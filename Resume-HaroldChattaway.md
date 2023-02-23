@@ -62,6 +62,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Utilized animation, multi-threading, drag/drop interface to provide best experience for user.
 - Trained on robotic workflow to understand it from screen down to motor control.
 - Utilized Bitbucket and SourceTree for version control.
+- I did extensive work on the WPF screens shown here:https://highresbio.com/automated-liquid-handling/software/
 
  **Senior Software Engineer**  –  **Control Center Team/ Warehouse Management, Symbotic Wilmington, MA** 
 
