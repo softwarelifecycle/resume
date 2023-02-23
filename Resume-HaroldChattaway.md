@@ -70,7 +70,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Introduced Unity3D game engine for the purpose of representing the warehouse as a 3D virtual model that can be viewed from any vantage point.
 - Introduced using Leap Motion sensor to manipulate 3D objects in WPF view.
 
- **Senior Software Engineer**  –  **Blood Gas Analyzers – Nova BioMedical, Waltham MA** 
+ **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA** 
 
 - GUI project lead.
 - Developed state of the art touch screen system using advanced custom WPF controls, styles, and animations for a polished user experience.
@@ -81,6 +81,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Produced 60-page manual documenting WPF architecture.
 - Introduced Jenkins as a continuous integration build server.
 - Used Subversion with the Tortoise shell extension and AnkhSVN for Visual Studio integration.
+- http://www.novabiomedical.com/prime-plus/index.php
 
  **Senior Software Engineer**  **–**  **Bank Of America** 
 
