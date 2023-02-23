@@ -9,4 +9,5 @@ I am highly devoted to continuous learning and have taken Udemy courses on Softw
 I look forward to discussing interesting engineering oppurtunities! 
 
 Thank you for your time.
+
 Harold Chattaway
