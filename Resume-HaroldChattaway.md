@@ -82,7 +82,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Produced 60-page manual documenting WPF architecture.
 - Introduced Jenkins as a continuous integration build server.
 - Used Subversion with the Tortoise shell extension and AnkhSVN for Visual Studio integration.
-- http://www.novabiomedical.com/prime-plus/index.php
+- This is the blood gas analyzer I worked on: http://www.novabiomedical.com/prime-plus/index.php
 
  **Senior Software Engineer**  **–**  **Bank Of America** 
 
