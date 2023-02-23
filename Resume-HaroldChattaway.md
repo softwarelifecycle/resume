@@ -55,8 +55,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 
  **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA** 
 
-- Project lead.
-- Developed a WPF application which allowed users to define jobs, create orders and execute them on the robot. Controls robot arm, XYZ gantry, storage unit etc.
+- Developed a WPF application which allowed users to define assays, create orders and execute them on the robot. Controls robot arm, XYZ gantry, storage unit etc.
 - Performed new development, and refactored existing code base.
 - Worked with product managers and other engineers to define product requirements.
 - Utilized animation, multi-threading, drag/drop interface to provide best experience for user.
