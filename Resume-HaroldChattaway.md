@@ -124,6 +124,10 @@ Co-Author: Chattaway H, Pearson R, Hentzen W
 - Speaker at Great Lakes Database Conference
 - Speaker at MS Developers Conference, Las Vegas NV
 
+**Articles**
+- https://www.codeproject.com/Articles/744302/Prism-Event-DashBoard
+Modifications to the PRISM framework to publish internal events that are then subscribed to by a Dashboard that summarizes all application events. Showing publishers, subscribers and payload for all events.
+
 **EDUCATION**
 
 **New Jersey Institute of Technology,** Newark NJ
