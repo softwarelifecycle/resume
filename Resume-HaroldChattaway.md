@@ -35,11 +35,7 @@ Lifelong learner, up to date with latest technologies including AI and computer 
 - Lead WPF/GUI engineer on medical device to repair corneal damage caused by keratoconus and refractive surgery.
 - Collected the eye treatment parameters and using gRPC, which communicated to a C++ app running on Ubuntu using socket programming.
 - Event-driven, multi-threaded application.
-
- **Senior Software Engineer-** **MRI Medical Device – Nous – via Medacuity** 
-
-- Updated interface due to change requirements written in React.
-- Performed extensive testing on updated text and deployment of React/Python application on the Ubuntu platform using both unit testing and automated UI testing.
+Product page: https://www.glaukos.com/cornea/solutions/ilink/
 
 **Senior Software Engineer** – **OCT Cardiac medical Device -Abbot Medical – via Medacuity** 
 
@@ -83,7 +79,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Used Subversion with the Tortoise shell extension and AnkhSVN for Visual Studio integration.
 - This is the blood gas analyzer I worked on: http://www.novabiomedical.com/prime-plus/index.php
 
- **Senior Software Engineer**  **–**  **Bank Of America** 
+ **Senior Software Engineer** - **Bank Of America** 
 
 - Worked on a large internal WPF/ C# application utilizing the Prism Framework and MVVM that consolidated data across multiple mainframe systems.
 - Built log analyzer to do data mining on the error logs allowing the team to examine the most recurrent defects for faster resolution.
@@ -113,9 +109,13 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 
 **PUBLICATIONS**
 
-Co-Author: Chattaway H, Pearson R, Hentzen W
+Myself with co-author Randy Pearson and intro by Whil Hentzen 
 
 **WebRad: Building Database Applications on the Web with Visual FoxPro and Web Connection.** 2002. Hentzenwerke Publishing.
+
+**Articles**
+- https://www.codeproject.com/Articles/744302/Prism-Event-DashBoard
+Modifications to the PRISM framework to publish internal events that are then subscribed to by a Dashboard that summarizes all application events. Showing publishers, subscribers and payload for all events.
 
 **Public Speaking**
 
@@ -124,14 +124,11 @@ Co-Author: Chattaway H, Pearson R, Hentzen W
 - Speaker at Great Lakes Database Conference
 - Speaker at MS Developers Conference, Las Vegas NV
 
-**Articles**
-- https://www.codeproject.com/Articles/744302/Prism-Event-DashBoard
-Modifications to the PRISM framework to publish internal events that are then subscribed to by a Dashboard that summarizes all application events. Showing publishers, subscribers and payload for all events.
-
 **EDUCATION**
 
 **New Jersey Institute of Technology,** Newark NJ
+  BS, Computer Science
 
-BS, Computer Science
-
-
+** Additional Courses **
+Carnigie-Mellon Computer Science certification class in computer vision using Python.
+Completed courses on Software Architecture, Advanced C#, Python and GIT from Udemy and other educational sites.
