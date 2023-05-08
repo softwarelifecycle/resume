@@ -129,6 +129,6 @@ Modifications to the PRISM framework to publish internal events that are then su
 **New Jersey Institute of Technology,** Newark NJ
   BS, Computer Science
 
-** Additional Courses **
+ **Additional Courses**
 Carnigie-Mellon Computer Science certification class in computer vision using Python.
 Completed courses on Software Architecture, Advanced C#, Python and GIT from Udemy and other educational sites.
