@@ -10,6 +10,8 @@ Extensive experience presenting at MS conferences including code generation, ses
 
 Lifelong learner, up to date with latest technologies including AI and computer vision to analyze video and images, along with advanced topics in C#.
 
+Have worked remotely for about 70% of my career. Have the work ethic and disipline to make sure work gets done.
+
 **TECHNICAL SUMMARY**
 
 |   OS|  Languages | Tools  | Frameworks | Training |
@@ -49,7 +51,7 @@ Product page: https://www.glaukos.com/cornea/solutions/ilink/
 - I did extensive work on all of the screens shown in this product link. Both the still shots and the demo video. And provided help for others on these screens as well along with the initial architecture.
 https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-intervention/intravascular-imaging/ultreon-software.html
 
- **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA** 
+ **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/15 - 10/19 ** 
 
 - Developed a WPF application which allowed users to define assays, create orders and execute them on the robot. Controls robot arm, XYZ gantry, storage unit etc.
 - Performed new development, and refactored existing code base.
@@ -66,7 +68,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Introduced Unity3D game engine for the purpose of representing the warehouse as a 3D virtual model that can be viewed from any vantage point.
 - Introduced using Leap Motion sensor to manipulate 3D objects in WPF view.
 
- **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA** 
+ **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA  6/15 - 2/16 Contract Assignment ** 
 
 - GUI project lead.
 - Developed state of the art touch screen system using advanced custom WPF controls, styles, and animations for a polished user experience.
@@ -79,7 +81,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Used Subversion with the Tortoise shell extension and AnkhSVN for Visual Studio integration.
 - This is the blood gas analyzer I worked on: http://www.novabiomedical.com/prime-plus/index.php
 
- **Senior Software Engineer** - **Bank Of America** 
+ **Senior Software Engineer** - **Bank Of America 10/13 - 6/15  Contractor** 
 
 - Worked on a large internal WPF/ C# application utilizing the Prism Framework and MVVM that consolidated data across multiple mainframe systems.
 - Built log analyzer to do data mining on the error logs allowing the team to examine the most recurrent defects for faster resolution.
@@ -87,7 +89,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Wrote a Prism Event Dashboard utility that monitored all Prism Events and summarized all subscribers and publishers of Prism Events system wide.
 - Modified the Prism framework itself so that existing applications did not have to be modified at all.
 
- **Senior Software Engineer Zoll Medical, Chelmsford, MA** 
+ **Senior Software Engineer Zoll Medical, Chelmsford, MA  4/06 - 10/13** 
 
 - Developed a large enterprise WPF hosted application with the WPF front end utilizing WCF for communications back to the server.
 - Managed a large database with over 400 tables.
@@ -100,7 +102,7 @@ https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-inte
 - Used TFS for managing multiple code branches and IIS to manage WCF service sites.
 - Wrote technical documentation for other team members to save time implementing the framework we created.
 
- **Founder and Architect of BugCentral.com**  **Bug Tracking Website** 
+ **Founder and Architect of BugCentral.com**  **Bug Tracking Website  1998 - 2007** 
 
 - Created a web-based bug tracking service before existence of sites like Jira.
 - Software teams could create projects, sign up and produce reports on their own.
@@ -123,6 +125,7 @@ Modifications to the PRISM framework to publish internal events that are then su
 - Speaker at MS DevDays, Boston
 - Speaker at Great Lakes Database Conference
 - Speaker at MS Developers Conference, Las Vegas NV
+- Enjoy doing "Lunch and Learns" to demonstrate interesting technologies to co-workers.
 
 **EDUCATION**
 
