@@ -51,7 +51,7 @@ Product page: https://www.glaukos.com/cornea/solutions/ilink/
 - I did extensive work on all of the screens shown in this product link. Both the still shots and the demo video. And provided help for others on these screens as well along with the initial architecture.
 https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-intervention/intravascular-imaging/ultreon-software.html
 
- **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/15 - 10/19 ** 
+ **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/16 - 10/19 ** 
 
 - Developed a WPF application which allowed users to define assays, create orders and execute them on the robot. Controls robot arm, XYZ gantry, storage unit etc.
 - Performed new development, and refactored existing code base.
