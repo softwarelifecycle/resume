@@ -28,8 +28,8 @@ Have worked remotely for about 70% of my career. Have the work ethic and disipli
 
  **Senior Software Engineer - Cochlea Implant Device – Envoy Medical – via Medacuity** 
  
- -Senior engineer on C#/WPF front end GUI that controls implant
- -Collects data and writes to registers on surgically implanted device via BLE
+ - Senior engineer on C#/WPF front end GUI that controls implant.
+ - Collects data and writes to registers on surgically implanted device via BLE.
  
  
  **Senior Software Engineer - Dermatology Laser Device – Cynosure – via Medacuity** 
