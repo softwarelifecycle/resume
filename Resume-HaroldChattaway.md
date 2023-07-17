@@ -2,15 +2,15 @@
 
 **SUMMARY**
 
-With over 25 years of experience of utilizing advanced technologies to improve web and desktop users experience. Highly efficient senior software engineer, specializing in C# WPF applications in the medical device market.
+Senior Software Engineer specializing in WPF/C# medical device engineering. Work Experience 1 - 4 are through Medacuity Software. These experiences were the different assignments I had working for Medacuity. The links to the product pages for the various apps I worked on are included here. They show the exact screens I personally worked on and helped design.
 
-Adept at utilizing formal engineering methods to shorten the development process and create solid applications.
+They all involved medical devices using C# and WPF. I have extensive experience in this platform along with all of the various tools such as Git, JIRA, Bitbucket and the Agile process.
 
-Extensive experience presenting at MS conferences including code generation, session management, and have been credited in multiple publications and author of book on web development.
+Aside from these, I have also studied computer vision using Python and PyTorch. I also took a course through Carnegie Mellon in Computer Vision. My project was training a model to recognize various types of galaxies using a 70k image training database.
 
-Lifelong learner, up to date with latest technologies including AI and computer vision to analyze video and images, along with advanced topics in C#.
+On my own, I also learned how to control a network of cameras using socket programming in Python. I was able to trigger all the cameras simultaneously, have them upload the picture back to the server and then use them to build 3d models using photogrammetry. All the cameras ran Linux and auto logged onto the network via wifi. 
 
-Have worked remotely for about 70% of my career. Have the work ethic and disipline to make sure work gets done.
+I enjoy learning new technology whether directly related to an assignment or not. I am  a voracious reader and love studying the latest technologies in machine learning and computer vision. These fields can play a huge role in the medical industry as well. I look forward to learning about new engineering oppurtunities!
 
 **TECHNICAL SUMMARY**
 
