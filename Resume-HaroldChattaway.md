@@ -45,7 +45,7 @@ I enjoy learning new technology whether directly related to an assignment or not
 - Event-driven, multi-threaded application.
 
 
-**Senior Software Engineer – OCT Cardiac medical Device via Medacuity **
+**Senior Software Engineer – OCT Cardiac medical Device via Medacuity**
 
 - Took a leading role in advancing the UWP UI design.
 - Participated in the architecture of key UWP custom controls.
