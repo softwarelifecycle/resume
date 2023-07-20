@@ -72,7 +72,7 @@ I enjoy learning new technology whether directly related to an assignment or not
 - Introduced Unity3D game engine for the purpose of representing the warehouse as a 3D virtual model that can be viewed from any vantage point.
 - Introduced using Leap Motion sensor to manipulate 3D objects in WPF view.
 
- **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA  6/15 - 2/16 Contract Assignment ** 
+ **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA  6/15 - 2/16 Contract Assignment** 
 
 - GUI project lead.
 - Developed state of the art touch screen system using advanced custom WPF controls, styles, and animations for a polished user experience.
