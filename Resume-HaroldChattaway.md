@@ -55,7 +55,7 @@ I enjoy learning new technology whether directly related to an assignment or not
 - Involved in frequent team communication and cooperation on a complicated application.
 - When required by pandemic, was able to transition using remoting tools so the project could move forward, often more efficiently, without any complications.
 
- **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/16 - 10/19 ** 
+ **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/16 - 10/19** 
 
 - Developed a WPF application which allowed users to define assays, create orders and execute them on the robot. Controls robot arm, XYZ gantry, storage unit etc.
 - Performed new development, and refactored existing code base.
@@ -72,7 +72,7 @@ I enjoy learning new technology whether directly related to an assignment or not
 - Introduced Unity3D game engine for the purpose of representing the warehouse as a 3D virtual model that can be viewed from any vantage point.
 - Introduced using Leap Motion sensor to manipulate 3D objects in WPF view.
 
- **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA  6/15 - 2/16 Contract Assignment ** 
+ **Senior Software Engineer**  –  **Prime Blood Gas Analyzers – Nova BioMedical, Waltham MA  6/15 - 2/16 Contract Assignment** 
 
 - GUI project lead.
 - Developed state of the art touch screen system using advanced custom WPF controls, styles, and animations for a polished user experience.
