@@ -26,26 +26,26 @@ I enjoy learning new technology whether directly related to an assignment or not
 
  **Senior Software Engineer – Medacuity, Westford, MA  10-19 to present**
 
- **Senior Software Engineer - Cochlea Implant Device – Envoy Medical – via Medacuity** 
+ **Senior Software Engineer - Cochlea Implant Device – via Medacuity** 
  
  - Senior engineer on C#/WPF front end GUI that controls implant.
  - Collects data and writes to registers on surgically implanted device via BLE.
  
  
- **Senior Software Engineer - Dermatology Laser Device – Cynosure – via Medacuity** 
+ **Senior Software Engineer - Dermatology Laser Device – via Medacuity** 
 
 - Lead on developing WPF/PRISM framework.
 - Implemented state machine using open-source project "stateless".
 - Utilized Azure DevOps (ADO) for all issue and branch management.
 
- **Senior Software Engineer - Glaukos - via Medacuity** 
+ **Senior Software Engineer - Repair Corneal Damage - via Medacuity** 
 
 - Lead WPF/GUI engineer on medical device to repair corneal damage caused by keratoconus and refractive surgery.
 - Collected the eye treatment parameters and using gRPC, which communicated to a C++ app running on Ubuntu using socket programming.
 - Event-driven, multi-threaded application.
-Product page: https://www.glaukos.com/cornea/solutions/ilink/
 
-**Senior Software Engineer** – **OCT Cardiac medical Device -Abbot Medical – via Medacuity** 
+
+**Senior Software Engineer – OCT Cardiac medical Device via Medacuity **
 
 - Took a leading role in advancing the UWP UI design.
 - Participated in the architecture of key UWP custom controls.
@@ -54,8 +54,6 @@ Product page: https://www.glaukos.com/cornea/solutions/ilink/
 - Worked closely with a large development team that involved a highly coordinated approach to development.
 - Involved in frequent team communication and cooperation on a complicated application.
 - When required by pandemic, was able to transition using remoting tools so the project could move forward, often more efficiently, without any complications.
-- I did extensive work on all of the screens shown in this product link. Both the still shots and the demo video. And provided help for others on these screens as well along with the initial architecture.
-https://www.cardiovascular.abbott/int/en/hcp/products/percutaneous-coronary-intervention/intravascular-imaging/ultreon-software.html
 
  **Senior Software Engineer** – **Liquid handling robot** **– HiRes BioSolutions, Beverely, MA  10/16 - 10/19 ** 
 
